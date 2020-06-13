@@ -1,6 +1,6 @@
 # Notes on Computational Genomics with R
-#### by Altuna Akalin
-
+#### by Altuna Akalinv
+####https://al2na.github.io/compgenr/
 
 This is somewhat an opinionated guide on using R for computational genomics. It is aimed at wet-lab researchers who wants to use R in their data analysis ,and bioinformaticians who are new to R and wants to learn more about its capabilities for genomics data analysis.
 
